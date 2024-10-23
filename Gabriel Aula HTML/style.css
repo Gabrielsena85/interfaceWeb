@@ -1,0 +1,60 @@
+body
+{
+    background-color: black;
+    background-image: url(../1.jpg);
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-size: 100%;
+}
+
+h1
+{
+    font-size: 50px;
+}
+
+label{
+    display: inline-block;
+    width: 250px;
+    height: 35px;
+    margin: 10px;
+}
+
+input
+{
+    width: 250px;
+    height: 35px;
+    margin: 10px;
+}
+
+button
+{
+    margin: 10px;
+    width: 250px;
+    height: 35px;
+    background-color: aqua;
+    color: black;
+    font-weight: bolder;
+    font-size: 20px;
+    border-radius: 15px;
+}
+#listDiv
+{
+    background-color: #101010;
+    display: inline-block;
+    min-height: 350px;
+    width: 600px;
+}
+
+p
+{
+    background-color: #202020;
+    border: solid 1px wheat;
+    margin: 2px;
+}
+
+#formDiv
+{
+    display: inline-block;
+    vertical-align: top;
+}
